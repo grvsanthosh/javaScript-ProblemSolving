@@ -1,20 +1,20 @@
 Day1&2:
 =====
-[]Given a number, check if it is a prime number or not.
-[]Given a number, check if it is a palindrome number or not.
-[]Given a number, check if it is a perfect number or not.
-[]Given a number, check if it is a happy number or not.
-[]Given a number, check if it is a fibonacci number or not.
-[]Given a number, check if it is a armstrong number or not.
-[]Given two numbers, find the greatest common divisor (GCD) of the two numbers.
-[]Given two numbers, find the least common multiple (LCM) of the two numbers.
-[]Given a number, find the factorial of the number.
-[]Given a number, find the sum of the digits of the number.
-[]Given a number, find the reverse of the number.
-[]Given a number, find the number of digits in the number.
-[]Given a number, find the number of prime factors of the number.
-[]Find the nth number in the fibonacci sequence.
-[]Find the nth prime number.
+1. Given a number, check if it is a prime number or not.
+2. Given a number, check if it is a palindrome number or not.
+3. Given a number, check if it is a perfect number or not.
+4. Given a number, check if it is a happy number or not.
+5. Given a number, check if it is a fibonacci number or not.
+6. Given a number, check if it is a armstrong number or not.
+7. Given two numbers, find the greatest common divisor (GCD) of the two numbers.
+8. Given two numbers, find the least common multiple (LCM) of the two numbers.
+9. Given a number, find the factorial of the number.
+10. Given a number, find the sum of the digits of the number.
+11. Given a number, find the reverse of the number.
+12. Given a number, find the number of digits in the number.
+13. Given a number, find the number of prime factors of the number.
+14. Find the nth number in the fibonacci sequence.
+15. Find the nth prime number.
 
 Day3:
 =====
