@@ -1,6 +1,6 @@
 Day1&2:
 =====
-1. Given a number, check if it is a prime number or not.
+1. [ ] Given a number, check if it is a prime number or not.
 2. Given a number, check if it is a palindrome number or not.
 3. Given a number, check if it is a perfect number or not.
 4. Given a number, check if it is a happy number or not.
