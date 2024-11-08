@@ -10,3 +10,9 @@ Two numbers are amicable if the sum of the proper divisors of one number is equa
 ### perfect number
 A perfect number is a positive integer that is equal to the sum of its proper divisors, which are all of its positive divisors excluding the number itself. For example, 6 is a perfect number because 1 + 2 + 3 = 6.
 The first four perfect numbers are 6, 28, 496, and 8128.
+
+### Factor
+a whole number that divides another number evenly, meaning without leaving a remainder
+
+### Proper Factor
+any factor of the number except the number itself
