@@ -11,29 +11,24 @@ rl.on('line',(input)=>{
 
 rl.on('close',()=>{
     //logic
+    let num = userInput[0];
 
-    let num = Number(userInput[0]);
-    if(num === 1)
-        console.log(" 1 is neither a prime number nor a composite number")
-
+    if (num === 1)
+        console.log(" 1 is not a prime number or composite number")
     else if(num > 1){
-        let isPrime = true;
-        for(let i = 2; i <= Math.sqrt(num); i++){
-            if(num % i === 0){
+        let isPrime = true
+        for(let i = 2;i<num/2;i++){
+            if(num %i ===0){
                 isPrime = false;
                 break;
             }
+
         }
-    
         if(isPrime)
-            console.log(`${num} is a prime number`);
+            console.log("prime number")
         else
-            console.log(`${num} is not a prime number`);
-
+            console.log("not a prime number")
     }
-
-    else
-        console.log("The number is not a prime number.")
     
 })
 
