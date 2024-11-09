@@ -20,3 +20,7 @@ any factor of the number except the number itself
 ### composite number
 
 A number that is divisible by a number other than 1 and the number itself, is called a composite number. This means that composite numbers have more than 2 factors. For example, 4 and 6 are composite numbers
+
+### Palindrome 
+
+A palindrome number is a number that remains the same when its digits are reversed. For example, 121 and 12321 are palindromic numbers
