@@ -30,3 +30,11 @@ A palindrome number is a number that remains the same when its digits are revers
 A happy number is a number defined by the following process: Starting with any positive integer, replace the number by the sum of the squares of its digits, and repeat the process until the number equals 1 (where it will stay), or it loops endlessly in a cycle which does not include 1
 
 For example, let’s say your input was 19. The expected output would be true. 19, when broken down into its digits, is 1 and 9. Those numbers squared are 1 and 81. 1 + 81 is 82. 82 broken into its digits is 8 and 2. Those numbers squared are 64 and 4, and 64 + 4 = 68. 68 broken down into its digits is 6 and 8. Those numbers squared is 36 and 64. 36 + 64 = 100. 100 broken down into its digits is 1, 0, and 0. Those numbers squared and summed is 1, which makes it a happy number.
+
+### Fibonacci 
+
+Each number is equal to the sum of the preceding two numbers. For example, 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377
+
+### Armstrong 
+
+It's a number that equals the sum of its digits, each raised to a power. For example, if you have a number like 153, it's an Armstrong number because 1^3 + 5^3 + 3^3 equals 153.
