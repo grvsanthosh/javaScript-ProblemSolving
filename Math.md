@@ -38,3 +38,8 @@ Each number is equal to the sum of the preceding two numbers. For example, 0, 1,
 ### Armstrong 
 
 It's a number that equals the sum of its digits, each raised to a power. For example, if you have a number like 153, it's an Armstrong number because 1^3 + 5^3 + 3^3 equals 153.
+
+### prime 
+
+A prime number is a number that can only be divided by itself and 1
+
