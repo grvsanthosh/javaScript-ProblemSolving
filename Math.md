@@ -1,4 +1,4 @@
-### Divisor
+ko ko### Divisor
 A divisor is any number that divides another number. The number being divided is called the dividend. The result of the division is called the quotient.
 
 ### proper divisor
@@ -42,4 +42,14 @@ It's a number that equals the sum of its digits, each raised to a power. For exa
 ### prime 
 
 A prime number is a number that can only be divided by itself and 1
+
+### LCM
+
+The Least Common Multiple (LCM) of two integers is the smallest positive integer that is perfectly divisible by both integers.
+
+### GCD
+
+The Highest Common Factor (HCF) or Greatest Common Divisor (GCD) of two integers is the largest integer that can exactly divide both integers (without a remainder).
+
+For example, the HCF of 60 and 72 is 12.
 
