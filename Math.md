@@ -24,3 +24,9 @@ A number that is divisible by a number other than 1 and the number itself, is ca
 ### Palindrome 
 
 A palindrome number is a number that remains the same when its digits are reversed. For example, 121 and 12321 are palindromic numbers
+
+### happy number
+
+A happy number is a number defined by the following process: Starting with any positive integer, replace the number by the sum of the squares of its digits, and repeat the process until the number equals 1 (where it will stay), or it loops endlessly in a cycle which does not include 1
+
+For example, let’s say your input was 19. The expected output would be true. 19, when broken down into its digits, is 1 and 9. Those numbers squared are 1 and 81. 1 + 81 is 82. 82 broken into its digits is 8 and 2. Those numbers squared are 64 and 4, and 64 + 4 = 68. 68 broken down into its digits is 6 and 8. Those numbers squared is 36 and 64. 36 + 64 = 100. 100 broken down into its digits is 1, 0, and 0. Those numbers squared and summed is 1, which makes it a happy number.
