@@ -16,3 +16,6 @@ a whole number that divides another number evenly, meaning without leaving a rem
 
 ### Proper Factor
 any factor of the number except the number itself
+
+### composite number
+
