@@ -13,7 +13,7 @@ rl.on('close',()=>{
     //logic
     let input1 = userInput[0];
     let input2  = findreverse(input1);
-    console.log(input2)
+
     if(input1.length === input2.length){
         let isPalindrome = true
         for (let i = 0;i<input1.length;i++){

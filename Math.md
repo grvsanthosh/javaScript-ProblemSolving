@@ -1,4 +1,4 @@
-ko ko### Divisor
+### Divisor
 A divisor is any number that divides another number. The number being divided is called the dividend. The result of the division is called the quotient.
 
 ### proper divisor
